@@ -1,7 +1,6 @@
 ### Hi! (^-^)
 
-Hi! I’m [Piyush Makwana](https://piyushmakwana.in/), a Software Engineer currently working at Paytm in Bangalore. I graduated from IIT Roorkee with a B.Tech. in Computer Science & Engineering in 2021.  
-
+Hi! I’m [Piyush Makwana](https://piyushmakwana.in/).
 <!--
 **Piyush811999/Piyush811999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
